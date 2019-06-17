@@ -183,7 +183,9 @@ Pull requests are welcome. Enjoy!
 * `ALTER TABLE` table_name `DROP COLUMN` column_name;
 
 
+# 7. Miscellaneous
 
+- for even id numbers -- select distinct city from station where id%2=0;
 
 
 
