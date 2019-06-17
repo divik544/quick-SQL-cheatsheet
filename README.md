@@ -186,6 +186,7 @@ Pull requests are welcome. Enjoy!
 # 7. Miscellaneous
 
 - for even id numbers -- select distinct city from station where id%2=0;
-
+- for length of string -- `LENGTH(column_name)`
+- for substring of string -- `SUBSTRING(column_name,from,count)`. 1 based indexing.
 
 
