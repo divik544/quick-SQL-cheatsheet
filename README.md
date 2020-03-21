@@ -12,6 +12,7 @@ Pull requests are welcome. Enjoy!
 4. [ Join Queries. ](#joins)
 5. [ View Queries. ](#view)
 6. [ Altering Table Queries.](#alter)
+7. [ Miscellaneous ](#find)
 
 <a name="find"></a>
 # 1. Finding Data Queries
@@ -182,7 +183,7 @@ Pull requests are welcome. Enjoy!
 ### **DROP**: delete a column
 * `ALTER TABLE` table_name `DROP COLUMN` column_name;
 
-
+<a name="misc"></a>
 # 7. Miscellaneous
 
 - for even id numbers -- select distinct city from station where id%2=0;
