@@ -12,7 +12,7 @@ Pull requests are welcome. Enjoy!
 4. [ Join Queries. ](#joins)
 5. [ View Queries. ](#view)
 6. [ Altering Table Queries.](#alter)
-7. [ Miscellaneous ](#find)
+7. [ Miscellaneous ](#misc)
 
 <a name="find"></a>
 # 1. Finding Data Queries
